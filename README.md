@@ -1,20 +1,20 @@
 <!-- NEW STUFF -->
 
-<h1 align="center">HEY 👋, I'm Ganesh Bhandarkar</h1>
-<h3 align="center">Pre-final Year Student, Learning to Code Better & Efficient</h3>
+<h1 align="center">HEY 👋, I'm Saket Lakhotia</h1>
+<h3 align="center">🎟️ Fill your life with experiences so you always have a great story to tell 🙃</h3>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ganeshbhandarkar" alt="ganeshbhandarkar" /> </p>
 
-- 🔭 I’m currently working on [CP](https://github.com/ganeshbhandarkar/CP)
+- 🔭 I’m currently working on [Improving Coding]
 
-- 🌱 I’m currently learning **Competitive Programming, BlockChain ,React , etc**
+- 🌱 I’m currently learning **Android Development, Machine Learning, Deep Learning etc**
 
 <!--- 👨‍💻 All of my projects are available at [http://ganeshbhandarkar.github.io](http://ganeshbhandarkar.github.io)-->
 
 - 💬 Ask me about **flutter, native-android, godot**
 
-- 📫 How to reach me **gbgb1bgbg@gmail.com**
+- 📫 How to reach me **saket.lakhotia17@gmail.com**
 
 - ⚡ Fun fact **sleep is the best meditation**
 
