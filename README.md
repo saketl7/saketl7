@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **saket.lakhotia17@gmail.com**
 
-- ⚡ Fun fact **sleep is the best meditation**
+- ⚡ Fun fact **Sleep is the best Meditation**
 
 
 </br>
