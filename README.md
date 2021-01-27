@@ -25,10 +25,9 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshbhandarkar&show_icons=true" alt="ganeshbhandarkar" /></p>
 
 <p align="center">
-<a href="https://dev.to/ganeshbhandarkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ganeshbhandarkar" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/ganesh.btb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ganesh.btb" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/ganeshbhandarkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ganeshbhandarkar" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/ganesh__bhandarkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ganesh__bhandarkar" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/saketlakhotia17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saketlakhotia17" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/saket-lakhotia-428a57168/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saket Lakhotia" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/saket.lakhotia17/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saket.lakhotia17" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="center">Thanks For Visit!! </h3>
