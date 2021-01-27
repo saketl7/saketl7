@@ -12,7 +12,7 @@
 
 <!--- 👨‍💻 All of my projects are available at [http://ganeshbhandarkar.github.io](http://ganeshbhandarkar.github.io)-->
 
-- 💬 Ask me about **flutter, native-android, godot**
+- 💬 Ask me about **GCP, ML, BigQuery, AI**
 
 - 📫 How to reach me **saket.lakhotia17@gmail.com**
 
