@@ -1,5 +1,6 @@
 <!-- NEW STUFF -->
 
+![](https://github.com/saketlakhotia17/saketlakhotia17/blob/main/demo/Git.png)
 <h1 align="center">HEY 👋, I'm Saket Lakhotia</h1>
 <h3 align="center">🎟️ Fill your life with experiences so you always have a great story to tell 🙃</h3>
 
