@@ -11,15 +11,13 @@
 
 - 🌱 I’m currently learning **Android Development, Machine Learning, Deep Learning etc**
 
-<!--- 👨‍💻 All of my projects are available at [http://ganeshbhandarkar.github.io](http://ganeshbhandarkar.github.io)-->
-
 - 💬 Ask me about **GCP, ML, Android Studio, AI**
 
 - 📫 How to reach me **saket.lakhotia17@gmail.com**
 
 - ⚡ Fun fact **Sleep is the best Meditation**
 
-![](https://activity-graph.herokuapp.com/graph?username=saketlakhotia17)
+![](https://activity-graph.herokuapp.com/graph?username=saketlakhotia17&bg_color=0d1116)
 
 
 </br>
