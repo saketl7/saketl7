@@ -1,7 +1,7 @@
 <!-- NEW STUFF -->
 
 ![](https://github.com/saketlakhotia17/saketlakhotia17/blob/main/demo/Github%20.png)
-<h1 align="center">HEY 👋, I'm Saket Lakhotia</h1>
+<h1 align="center">HEY <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">, I'm Saket Lakhotia</h1>
 <h3 align="center">🎟️ Fill your life with experiences so you always have a great story to tell 🙃</h3>
 
 
