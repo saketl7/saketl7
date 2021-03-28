@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **Sleep is the best Meditation**
 
+![](https://activity-graph.herokuapp.com/graph?username=saketlakhotia17&theme=dracula)
+
 
 </br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketlakhotia17&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1116&langs_count=10&layout=compact&hide=html" alt="saketlakhotia17" /></p>
