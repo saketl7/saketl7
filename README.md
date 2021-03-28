@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Sleep is the best Meditation**
 
-![](https://activity-graph.herokuapp.com/graph?username=saketlakhotia17&theme=dracula)
+![](https://activity-graph.herokuapp.com/graph?username=saketlakhotia17)
 
 
 </br>
