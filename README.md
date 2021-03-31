@@ -5,7 +5,7 @@
 <h3 align="center">🎟️ Fill your life with experiences so you always have a great story to tell 🙃</h3>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=saketlakhotia17" alt="saketlakhotia17" /> </p>
+<p align="right"> <img src="https://gpvc.arturio.dev/saketlakhotia17" alt="saketlakhotia17" /> </p>
 
 - 🔭 I’m currently working on [Improving Coding]
 
