@@ -7,7 +7,7 @@
 
 <p align="right"> <img src="https://gpvc.arturio.dev/saketlakhotia17" alt="saketlakhotia17" /> </p>
 
-- 🔭 I’m currently working on **Furniture App with Augmented Reality**
+- 🔭 I’m currently working on **Augmented Reality in a Furniture App**
 
 - 🌱 I’m currently learning **Android Development, Machine Learning, Deep Learning etc**
 
