@@ -19,11 +19,11 @@
 
 
 </br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketlakhotia17&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1116&langs_count=10&layout=compact&hide=html" alt="saketlakhotia17" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketl7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1116&langs_count=10&layout=compact&hide=html" alt="saketl7" /></p>
 
 </br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saketlakhotia17&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1116&count_private=true)" alt="saketlakhotia17" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saketl7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1116&count_private=true)" alt="saketl7" /></p>
 
 </br>
 
