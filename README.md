@@ -32,9 +32,9 @@
 
 <p align="center">
 <a href="https://api.whatsapp.com/send/?phone=%2B919403192635&text&app_absent=0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Saket Lakhotia" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/saketlakhotia17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saketlakhotia17" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/saketlakhotia17/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saket Lakhotia" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/saketlakhotia17/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saketlakhotia17" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/saketl7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saketlakhotia17" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/saketl7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saket Lakhotia" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/saketl7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saketlakhotia17" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dribbble.com/SAKET17/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="Saket Lakhotia" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:saket.lakhotia17@gmail.com?subject=Hello/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Saket Lakhotia" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -49,9 +49,9 @@
 <p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
 <p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
 <p align="center">
-	<a href="https://saketlakhotia17.github.io/">Contact Support</a> —
-	<a href="https://saketlakhotia17.github.io/">GitHub Status</a> —
-	<a href="https://saketlakhotia17.github.io/">@githubstatus</a>
+	<a href="https://saketl7.github.io/">Contact Support</a> —
+	<a href="https://saketl7.github.io/">GitHub Status</a> —
+	<a href="https://saketl7.github.io/">@githubstatus</a>
 </p>
 <p></p>
 <p></p>
