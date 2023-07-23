@@ -5,11 +5,11 @@
 <h3 align="center">🎟️ Fill your life with experiences so you always have a great story to tell 🙃</h3>
 
 
-<p align="right"> <img src="https://gpvc.arturio.dev/saketl7" alt="Profile Views" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=saketl7" alt="Profile Views" /> </p>
 
-- 🔭 I’m currently working on **Augmented Reality in a Furniture App**
+- 🔭 Working as an **Associate 2 at KPMG Global Delivery Center with Audit department in GTS - Data Engineering Services**
 
-- 🌱 I’m currently learning **Android Development, Machine Learning, Deep Learning etc**
+- 🌱 Learning **Cloud development, Machine Learning, Deep Learning, etc**
 
 - 💬 Ask me about **GCP, ML, Android Studio, AI**
 
