@@ -7,7 +7,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=saketl7" alt="Profile Views" /> </p>
 
-- 🔭 Working as an **Associate 2 at KPMG Global Delivery Center with Audit department in GTS - Data Engineering Services**
+- 🔭 Working as an **Associate at KPMG GDC**
 
 - 🌱 Learning **Cloud development, Machine Learning, Deep Learning, etc**
 
