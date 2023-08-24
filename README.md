@@ -1,9 +1,10 @@
 <!-- NEW STUFF -->
 
 ![](https://github.com/saketlakhotia17/saketlakhotia17/blob/main/demo/Github.png)
-<h1 align="center">HEY 👋🏻<img src="https://github.com/saketl7/saketl7/blob/main/demo/waving-hand-joypixels.gif" width="35px">, I'm Saket Lakhotia</h1>
+<h1 align="center">HEY 👋🏻, I'm Saket Lakhotia</h1>
 <h3 align="center">🎟️ Fill your life with experiences so you always have a great story to tell 🙃</h3>
 
+<img src="https://github.com/saketl7/saketl7/blob/main/demo/waving-hand-joypixels.gif" width="35px">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=saketl7" alt="Profile Views" /> </p>
 
