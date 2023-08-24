@@ -1,10 +1,9 @@
 <!-- NEW STUFF -->
 
 ![](https://github.com/saketlakhotia17/saketlakhotia17/blob/main/demo/Github.png)
-<h1 align="center">HEY 👋🏻, I'm Saket Lakhotia</h1>
+<h1 align="center">HEY 👋🏻 , I'm Saket Lakhotia</h1>
 <h3 align="center">🎟️ Fill your life with experiences so you always have a great story to tell 🙃</h3>
 
-<img src="https://github.com/saketl7/saketl7/blob/main/demo/waving-hand-joypixels.gif" width="35px">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=saketl7" alt="Profile Views" /> </p>
 
@@ -18,6 +17,7 @@
 
 - ⚡ Fun fact **Sleep is the best Meditation**
 
+<img src="https://github.com/saketl7/saketl7/blob/main/demo/waving-hand-joypixels.gif" width="35px">
 
 </br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketl7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1116&langs_count=10&layout=compact&hide=html" alt="saketl7" /></p>
